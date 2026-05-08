@@ -60,3 +60,4 @@ Este proyecto forma parte de mi portfolio como Data Analyst en formación, con e
 
 Excel + Power BI Portfolio Project
 Se desarrolló una versión interactiva del dashboard en Power BI, incorporando mejores prácticas de visualización, KPIs dinámicos y filtros interactivos.
+
