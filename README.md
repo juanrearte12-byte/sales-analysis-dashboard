@@ -12,6 +12,7 @@ Se desarrolló un dashboard interactivo que permite analizar el rendimiento de v
 - Tablas dinámicas
 - Gráficos dinámicos
 - Segmentación de datos (Slicers)
+- Microsoft Power BI
 
 ---
 
@@ -48,14 +49,14 @@ Se desarrolló un dashboard interactivo que permite analizar el rendimiento de v
 ## 📁 Archivos del proyecto
 - `sales_dashboard.xlsx`: dashboard en Excel
 - `README.md`: descripción del proyecto
+- sales_dashboard.pbix
 
 ---
 
 ## 🎯 Objetivo profesional
-Este proyecto forma parte de mi portfolio como Data Analyst en formación, con el objetivo de demostrar habilidades en análisis de datos, visualización y uso de herramientas como Excel.
+Este proyecto forma parte de mi portfolio como Data Analyst en formación, con el objetivo de demostrar habilidades en análisis de datos, visualización y uso de herramientas como Excel y Power BI.
 
 ---
 
-## 📌 Próximos pasos
-- Replicar el dashboard en Power BI
-- Profundizar en análisis con Python (Pandas)
+Excel + Power BI Portfolio Project
+Se desarrolló una versión interactiva del dashboard en Power BI, incorporando mejores prácticas de visualización, KPIs dinámicos y filtros interactivos.
